@@ -8,7 +8,7 @@ sections:
       - label: Know us
         url: /pricing
         style: link
-        has_icon: false
+        has_icon: true
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
