@@ -19,6 +19,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
+    image: /images/AD_Logo-02.jpg
   - type: grid_section
     title: Featured On
     align: center
