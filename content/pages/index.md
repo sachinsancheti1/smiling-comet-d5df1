@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Atulit Developers
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Developing Infrastructure for Tomorrow
     actions:
       - label: Try for free
         url: /pricing
