@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Know us
         url: /pricing
-        style: link
+        style: primary
         has_icon: true
     image: images/hero.svg
     image_alt: Hero section placeholder image
