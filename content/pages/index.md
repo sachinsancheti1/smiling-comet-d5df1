@@ -5,7 +5,7 @@ sections:
     title: Atulit Developers
     subtitle: Developing Infrastructure for Tomorrow
     actions:
-      - label: Try for free
+      - label: Know us
         url: /pricing
         style: primary
     image: images/hero.svg
