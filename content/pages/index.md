@@ -9,7 +9,6 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
-    image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
