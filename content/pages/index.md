@@ -47,7 +47,6 @@ sections:
     actions: []
     grid_items:
       - title: Commercial Development
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           Development of commercial real estate in the Nilgiris
