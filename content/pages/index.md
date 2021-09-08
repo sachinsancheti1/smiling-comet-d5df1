@@ -46,7 +46,7 @@ sections:
     title: Focus of Works
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: What to Do
         subtitle: lorem-ipsum
         title_align: left
         content: >-
