@@ -44,7 +44,6 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: Focus of Works
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
