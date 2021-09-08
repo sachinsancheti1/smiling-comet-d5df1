@@ -10,7 +10,7 @@
         "title": "Startup",
         "logo_alt": "Atulit Developers",
         "has_primary_nav": false,
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "About",
