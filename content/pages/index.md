@@ -50,7 +50,7 @@ sections:
         title_align: left
         content: |
           Development of commercial real estate in the Nilgiris
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
