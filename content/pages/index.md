@@ -21,7 +21,7 @@ sections:
     background_image_opacity: 60
     image: /images/AD_Logo-02.jpg
   - type: features_section
-    title: Why Choose YourGoal?
+    title: What is Atulit Developers?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
