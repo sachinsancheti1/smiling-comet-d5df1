@@ -25,7 +25,7 @@ sections:
           partnership firm dealing with real estate in Coonoor. The first
           project we are likely to undertake is still in the pipeline.
         actions: []
-        image: images/feature-1.png
+        image: /images/DSC06827-1.JPG
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
