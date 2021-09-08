@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Startup Theme",
+    "title": "Atulit Developers LLP Coonoor, Nilgiris",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -7,10 +7,10 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Startup",
+        "title": "Atulit Developers LLP Header",
         "logo_alt": "Atulit Developers",
         "has_primary_nav": false,
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "About",
@@ -41,9 +41,9 @@
         "logo": "/images/scientific-avocado.jpg"
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/AD_Logo-02.jpg",
         "logo_alt": "Startup logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
@@ -62,7 +62,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
@@ -81,7 +81,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
@@ -95,7 +95,7 @@
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
@@ -147,11 +147,11 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
+        "anncmnt_content": "This website is still under development. We hope to see you soon back when we are ready. [Email Us anyway!](https://mailto:marketing@atulitdevelopers.com)\n",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://smiling-comet-d5df1.netlify.app"
+    "domain": "https://atulitdevelopers.com"
 }
