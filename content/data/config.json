@@ -41,7 +41,7 @@
         "logo": "/images/scientific-avocado.jpg"
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/AD_Logo-02.jpg",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
