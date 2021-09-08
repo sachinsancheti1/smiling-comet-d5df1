@@ -46,7 +46,7 @@ sections:
     title: Focus of Works
     actions: []
     grid_items:
-      - title: What to Do
+      - title: Commercial Development
         subtitle: lorem-ipsum
         title_align: left
         content: >-
