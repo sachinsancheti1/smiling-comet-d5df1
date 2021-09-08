@@ -28,13 +28,7 @@ sections:
           Welcome to Atulit Developers Home Page. Atulit Developers LLP is a
           partnership firm dealing with real estate in Coonoor. The first
           project we are likely to undertake is still in the pipeline.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
