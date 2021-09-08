@@ -32,7 +32,7 @@ sections:
           - label: Learn More
             url: /thank-you
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/feature-1.png
