@@ -64,7 +64,7 @@ sections:
         content: >
           Infrastructure development of residential or commercial converted
           properties
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
