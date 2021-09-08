@@ -24,9 +24,10 @@ sections:
     title: What is Atulit Developers?
     features:
       - title: All the Activity Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Welcome to Atulit Developers Home Page. Atulit Developers LLP is a
+          partnership firm dealing with real estate in Coonoor. The first
+          project we are likely to undertake is still in the pipeline.
         actions:
           - label: Learn More
             url: /thank-you
