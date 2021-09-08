@@ -4,11 +4,7 @@ sections:
   - type: hero_section
     title: Atulit Developers
     subtitle: Developing Infrastructure for Tomorrow
-    actions:
-      - label: Know us
-        url: /pricing
-        style: primary
-        has_icon: true
+    actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
