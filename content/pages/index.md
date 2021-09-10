@@ -91,17 +91,17 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  title: Atulit Developers
+  description: Developing Infrastructure for Tomorrow
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Atulit Developers
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Developing Infrastructure for Tomorrow
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -110,9 +110,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Atulit Developers
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Developing Infrastructure for Tomorrow
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
